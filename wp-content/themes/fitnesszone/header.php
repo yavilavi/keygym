@@ -38,7 +38,7 @@
                             <?php elseif($htype == 'header5'):
                             	echo do_shortcode('[dt_social/]');
                             endif; ?>
-                            <!-- <div class="top-right">
+                            <div class="top-right">
                                 <ul><?php
 								if(function_exists("is_woocommerce")): ?>
 									<li><a href="<?php echo WC()->cart->get_cart_url(); ?>" title="<?php _e( 'View Shopping Cart', 'fitnesszone' ); ?>"><span class="fa fa-shopping-cart"></span><?php echo sprintf (_n( '%d item', '%d items', WC()->cart->cart_contents_count, 'fitnesszone' ), WC()->cart->cart_contents_count ); ?> - <?php echo WC()->cart->get_cart_total(); ?></a></li><?php
@@ -54,7 +54,7 @@
 										echo get_edit_user_link($current_user->ID); ?>"><span class="fa fa-dashboard"></span><?php _e('My Profile', 'fitnesszone'); ?></a></li><?php
 								endif; ?>
                                 </ul>
-                            </div> -->
+                            </div> 
                         </div>
                     </div>
                     <!-- Top bar ends here -->
