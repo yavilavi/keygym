@@ -1,0 +1,144 @@
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable ui-sortable-handle dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+								
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div><div class="dt_modules_holder dt_modules_holder dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_callout_box dt_module_unique  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="callout_box" data-placeholder="Callout Box" style="opacity: 1; z-index: 1;"><span class="ico-iconbox dt_icon"></span>
+					<span class="dt_module_name">Callout Box</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type4</div><div data-option_name="cb_content" class="cb_content dt_module_setting dtthemes_module_content"><h3>We have the best Equipments, Coachers and the Best Training Programs</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. The point of using Lorem Ipsum is that it has a more-or-less normal.</p></div></div>
+					</div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_hr_invisible_small dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible_small" data-placeholder="Whitespace Small" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Small</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div class="dt_module dt_m_h2 dt_module_others  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting"></div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>Recent Products</p></div></div>
+					</div></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable ui-sortable-handle dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+								
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div><div class="dt_modules_holder dt_modules_holder dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>[recent_products per_page="3" columns="3" orderby="date" order="desc"]</p></div></div>
+					</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div><div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>[dt_sc_ts_wrapper title="Our Schedule"]</p><p>[dt_sc_ts_group]<br>[dt_sc_ts_time text="05:00 ï¿½ 06:00" /]<br>[dt_sc_ts_work title="Warmup" link="#" author="Alan Trump" /]<br>[dt_sc_ts_work title="Yoga" link="#" author="James Goodwin" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Chest" link="#" author="Kelly Wyane" /]<br>[dt_sc_ts_work title="Wings" link="#" author="Marlon Kate" /]<br>[dt_sc_ts_work title="Biceps" link="#" author="William kane" /]<br>[dt_sc_ts_work /]<br>[/dt_sc_ts_group]<br>[dt_sc_ts_group]<br>[dt_sc_ts_time text="06:00 ï¿½ 07:00" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Wings" link="#" author="Marlon Kate" /]<br>[dt_sc_ts_work title="Biceps" link="#" author="William kane" /]<br>[dt_sc_ts_work title="Warmup" link="#" author="Alan Trump" /]<br>[dt_sc_ts_work title="Yoga" link="#" author="James Goodwin" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Chest" link="#" author="Kelly Wyane" /]<br>[/dt_sc_ts_group]</p><p>[dt_sc_ts_group]<br>[dt_sc_ts_time text="07:00 ï¿½ 08:00" /]<br>[dt_sc_ts_work title="Warmup" link="#" author="Alan Trump" /]<br>[dt_sc_ts_work title="Yoga" link="#" author="James Goodwin" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Chest" link="#" author="Kelly Wyane" /]<br>[dt_sc_ts_work title="Wings" link="#" author="Marlon Kate" /]<br>[dt_sc_ts_work title="Biceps" link="#" author="William kane" /]<br>[dt_sc_ts_work /]<br>[/dt_sc_ts_group]<br>[dt_sc_ts_group]<br>[dt_sc_ts_time text="08:00 ï¿½ 09:00" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Wings" link="#" author="Marlon Kate" /]<br>[dt_sc_ts_work title="Biceps" link="#" author="William kane" /]<br>[dt_sc_ts_work title="Warmup" link="#" author="Alan Trump" /]<br>[dt_sc_ts_work title="Yoga" link="#" author="James Goodwin" /]<br>[dt_sc_ts_work /]<br>[dt_sc_ts_work title="Chest" link="#" author="Kelly Wyane" /]<br>[/dt_sc_ts_group]<br>[/dt_sc_ts_wrapper]</p></div></div>
+					</div><div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div><div class="dt_module dt_m_h2 dt_module_others  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="H2" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">H2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="class" class="class dt_module_setting">aligncenter</div><div data-option_name="h2_content" class="h2_content dt_module_setting dtthemes_module_content"><p>Suppliments</p></div></div></div><div class="dt_module dt_m_doshortcode_clients_carousel dt_module_unique  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_clients_carousel" data-placeholder="Clients Carousel" style="opacity: 1; z-index: 1;"><span class="ico-testimonial dt_icon"></span>
+					<span class="dt_module_name">Clients Carousel</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="cc_content" class="cc_content dt_module_setting dtthemes_module_content"><p>[dt_sc_clients_carousel]</p><ul><li>[dt_sc_client_item title="The National Physical Activity." link="#" image="http://wedesignthemes.com/themes/fitness-zone/wp-content/uploads/2015/02/client1.png" /]</li><li>[dt_sc_client_item title="Donec tincidunt sed mauris." link="#" image="http://wedesignthemes.com/themes/fitness-zone/wp-content/uploads/2015/02/client2.png" /]</li><li>[dt_sc_client_item title="Nam viverra nunc eu arcum." link="#" image="http://wedesignthemes.com/themes/fitness-zone/wp-content/uploads/2015/02/client3.png" /]</li><li>[dt_sc_client_item title="Vestibulum feugiat lacus." link="#" image="http://wedesignthemes.com/themes/fitness-zone/wp-content/uploads/2015/02/client4.png" /]</li><li>[dt_sc_client_item title="Quisque consequat pulvinar." link="#" image="http://wedesignthemes.com/themes/fitness-zone/wp-content/uploads/2015/02/client3.png" /]</li></ul><p>[/dt_sc_clients_carousel]</p></div></div>
+					</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div></div></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable ui-sortable-handle dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+								
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div data-option_name="backgroundcolor" class="backgroundcolor dt_module_setting"></div><div data-option_name="backgroundimage" class="backgroundimage dt_module_setting">http://placehold.it/1920x900&amp;text=Parallax</div><div data-option_name="opacity" class="opacity dt_module_setting"></div><div data-option_name="parallax" class="parallax dt_module_setting"></div><div data-option_name="backgroundrepeat" class="backgroundrepeat dt_module_setting">no-repeat</div><div data-option_name="backgroundposition" class="backgroundposition dt_module_setting">left top</div><div data-option_name="paddingtop" class="paddingtop dt_module_setting"></div><div data-option_name="paddingbottom" class="paddingbottom dt_module_setting"></div><div data-option_name="textcolor" class="textcolor dt_module_setting"></div><div data-option_name="class" class="class dt_module_setting">full-pattern5</div></div>
+						</div><div class="dt_modules_holder dt_modules_holder dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>[dt_section_title3 tag="h3" text1="The Best Training" text2="best Equipments" /]</p>
+<p>The World Health Organization recommends that adults 18-65 years old get "30 minutes of moderate-intensity physical activity 5 days per week" or "20 minutes of vigorous-intensity physical.</p>
+</div></div>
+					</div></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div><div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+								
+							</div>
+							<div class="dt_columndata_settings"></div>
+						</div><div class="dt_modules_holder dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+						<span class="dt_delete" title="Delete" style="display: block;"></span>
+						<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content"><p>The World Health Organization recommends that adults 18-65 years old get "30 minutes of moderate-intensity physical activity 5 days per week" or "20 minutes of vigorous-intensity physical activity 3 days per week"</p>
+<p>[dt_sc_hr_invisible_small]<br><a href="#">Get the list of High Intensity Workouts<i class="fa fa-angle-double-right"></i></a></p>
+</div></div></div></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div></div></div>
+					<div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div><div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div></div>

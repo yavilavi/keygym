@@ -1,0 +1,7 @@
+<div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-sortable-handle ui-resizable dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1;"><span class="ico-anycontent dt_icon"></span>
+						<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">[tt_timetable event='open-gym,boxing,crossfit,power-fitness,body-works' columns='monday,tuesday,wednesday,thursday,friday,saturday,sunday' time_format='g:i A' filter_style='tabs']</div></div>
+						<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>

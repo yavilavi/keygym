@@ -1,0 +1,135 @@
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div></div><div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-sortable-handle dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div>
+						<div class="dt_modules_holder dt_fullwidth_section_container ui-droppable ui-sortable"><div class="dt_module dt_m_pricing_table_two dt_module_general ui-sortable-handle dt_first" data-name="pricing_table_two" data-placeholder="Pricing Table Two" style="opacity: 1;"><span class="ico-pricingtable dt_icon"></span>
+						<span class="dt_module_name">Pricing Table Two</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="type" class="type dt_module_setting">type2</div><div data-option_name="space" class="space dt_module_setting">space</div><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_third first] [dt_sc_pricing_table_item_two color='darkpink' heading='Self Directed Training' subtitle='Gain Without a Personal Trainer' price1='$119.99' text1='3 Months' price2='$219.99' text2='6 Months' price3='$219.99' text3='Full year Subscription' button_text='Enroll Now' button_link='#' button_size='medium']</p>
+<ul>
+<li>&nbsp;Cardio Machines</li>
+<li>Weight Training Sets</li>
+<li>General Assistance</li>
+<li>Diet Guides</li>
+<li>Personal Trainers</li>
+</ul>
+<p>[/dt_sc_pricing_table_item_two] [/dt_sc_one_third] [dt_sc_one_third] [dt_sc_pricing_table_item_two color='purple' heading='Personal Trainers' subtitle='Train with your Personal Trainer' ribben='Best Plan' price1='$119.99' text1='3 Months' price2='$319.99' text2='6 Months' price3='$449.99' text3='Full year Subscription' button_text='Enroll Now' button_link='#' button_size='medium' selected]</p>
+<ul>
+<li>&nbsp;Cardio Machines</li>
+<li>Weight Training Sets</li>
+<li>General Assistance</li>
+<li>Diet Guides</li>
+<li>Personal Trainers</li>
+</ul>
+<p>[/dt_sc_pricing_table_item_two] [/dt_sc_one_third] [dt_sc_one_third] [dt_sc_pricing_table_item_two color='skyblue' heading='Result Gainer' subtitle='Complete Training Set' price1='$119.99' text1='3 Months' price2='$219.99' text2='6 Months' price3='$449.99' text3='Full year Subscription' button_text='Enroll Now' button_link='#' button_size='medium']</p>
+<ul>
+<li>Cardio Machines</li>
+<li>Weight Training Sets</li>
+<li>General Assistance</li>
+<li>Diet Guides</li>
+<li>Personal Trainers</li>
+</ul>
+<p>[/dt_sc_pricing_table_item_two] [/dt_sc_one_third]</p>
+</div></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div>
+					</div>            <div class="dt_module dt_m_hr_invisible_small dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_small" data-placeholder="Whitespace Small" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Small</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_m_hr_medium dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_medium" data-placeholder="Horizontal Rule Medium" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Horizontal Rule Medium</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div><div class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-sortable-handle dt_first" data-name="fullwidth_section" data-placeholder="Fullwidth Section" style="opacity: 1; z-index: 1;"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move"></span>
+							<div class="dt_module_options">
+								<span class="dt_delete_column" title="Delete" style="display: block;"></span>
+								<span class="dt_clone_column" title="Clone" style="display: block;"></span>
+								<span class="dt_settings_arrow_fullwidth" title="Settings" style="display: block;"></span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"></div>
+						</div>
+						<div class="dt_modules_holder dt_fullwidth_section_container ui-droppable ui-sortable"><div class="dt_module dt_m_pricing_table dt_module_general  ui-resizable ui-sortable-handle dt_first" data-name="pricing_table" data-placeholder="Pricing Table" style="opacity: 1;"><span class="ico-pricingtable dt_icon"></span>
+						<span class="dt_module_name">Pricing Table</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"><div data-option_name="space" class="space dt_module_setting">space</div><div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content"><p>[dt_sc_one_fourth first]<br>
+[dt_sc_pricing_table_item heading='Basic' button_text='Buy Now' button_link='#' price='$15' per='month' ]</p>
+<ul>
+<li>5 Projects</li>
+<li>10GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Standard' button_text='Buy Now' button_link='#' price='$15' per='month' selected]</p>
+<ul>
+<li>5 Projects</li>
+<li>10GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Premium' button_text='Buy Now' button_link='#' price='$15' per='month' ]</p>
+<ul>
+<li>5 Projects</li>
+<li>10GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_pricing_table_item heading='Ultimate' button_text='Buy Now' button_link='#' price='$15' per='month' ]</p>
+<ul>
+<li>5 Projects</li>
+<li>10GB Storage</li>
+<li>No Time Tracking</li>
+<li>Enhanced Security</li>
+<li>Unlimited Bandwidth</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]<br>
+[/dt_sc_one_fourth]</p>
+</div></div>
+						</div><div class="dt_module dt_m_hr_invisible_large dt_module_others dt_disable_resize ui-sortable-handle dt_first" data-name="hr_invisible_large" data-placeholder="Whitespace Large" style="opacity: 1;"><span class="ico-divider dt_icon"></span>
+						<span class="dt_module_name">Whitespace Large</span><div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+							<span class="dt_delete" title="Delete" style="display: block;"></span>
+							<span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+							<div class="dt_preview"></div>
+							<div class="dt_module_settings"></div>
+						</div></div>
+						<div class="dt_show_modules_in_popup dt_popup_from_section" title="Add Module" style="display: inline-block;"></div>
+					</div>

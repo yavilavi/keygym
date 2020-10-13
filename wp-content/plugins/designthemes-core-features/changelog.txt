@@ -1,0 +1,52 @@
+***Fitness Zone, Core Plugin Changelog ***
+
+2018.03.26 - version 2.3
+ * WP Visual Editor conflict with page builder issue fixed
+ * Social shortcode target attribute updated
+
+2017.11.21 - version 2.2
+ * Mailchimp & Twitter api files included
+ * Few theme shortcodes moved from theme
+
+2017.08.29 - version 2.1
+ * Iconbox shortcode link target option added
+ * Widget & Translation fixes in page builder fixed
+
+2017.04.24 - version 2.0
+ * Timetable events pagebuilder issue fixed
+ * Button, Blockquote colors issues fixed
+ * Some text translation issue updated
+
+2017.03.28 - version 1.9
+ * Page builder sample layout added
+ * Some notice issues fixed
+
+2016.09.30 - version 1.8
+ * Page builder functional enhancements
+
+2016.08.03 - version 1.7
+ * Page builder element title issue updated
+
+2016.07.01 - version 1.6
+ * Page builder with woocommerce widget issue fixed
+
+2016.04.30 - version 1.5
+ * PageBuilder UI enhancements
+
+2016.04.19 - version 1.4
+ * PageBuilder small issue for WordPress 4.5 updated
+
+2016.03.11 - version 1.3
+ * PageBuilder WPML issue fixed
+ * Custom Post WPML metabox issue fixed
+ * Timetable events builder module issue fixed
+
+2015.08.22 - version 1.2
+ * BuddyPress widgets in page builder issue fixed
+ * Button shortcode css tweaks updated
+
+2015.07.10 - version 1.1
+ * One Column shortcode issue fixed
+
+2015.02.27 - version 1.0
+ * First release!
